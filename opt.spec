@@ -5,6 +5,7 @@ Version:	3.19
 Release:	1
 License:	GPL
 Source0:	http://nis-www.lanl.gov/~jt/Software/opt/%{name}-%{version}.tar.gz
+# Source0-md5:	587171c4e15a40adde8aa1b3d77328e9
 Group:		Development/Libraries
 BuildRequires:	readline-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
