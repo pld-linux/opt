@@ -1,7 +1,7 @@
 Summary:	Options and Parameter parsing Tool
 Summary(pl):	Narzêdzie do analizowania opcji oraz parametrów
 Name:		opt
-Version:	3.16
+Version:	3.19
 Release:	1
 License:	GPL
 Source0:	http://nis-www.lanl.gov/~jt/Software/opt/%{name}-%{version}.tar.gz
