@@ -1,5 +1,5 @@
 Summary:	Options and Parameter parsing Tool
-Summary(pl):	Narzêdzie do analizowania opcji oraz parametrów
+Summary(pl.UTF-8):   NarzÄ™dzie do analizowania opcji oraz parametrÃ³w
 Name:		opt
 Version:	3.19
 Release:	1
@@ -18,12 +18,12 @@ is similar in aims to the standard getopt() utility, but it has a
 different (I would say better) interface to the programmer, and a few
 more bells and whistles for the end-users of programs that employ opt.
 
-%description -l pl
-opt jest bibliotek± zawieraj±c± funkcje pozwalaj±ce analizowaæ opcje i
-parametry w programie C przesy³ane przez liniê poleceñ, pliki z
-parametrami, zmienne ¶rodowiska lub wbudowane interaktywne menu. opt
-jest podobny do tego do czego d±¿y standardowa funkcja getopt() ale ma
-inny (lepszy) interfejs programisty oraz wiêcej mo¿liwo¶ci.
+%description -l pl.UTF-8
+opt jest bibliotekÄ… zawierajÄ…cÄ… funkcje pozwalajÄ…ce analizowaÄ‡ opcje i
+parametry w programie C przesyÅ‚ane przez liniÄ™ poleceÅ„, pliki z
+parametrami, zmienne Å›rodowiska lub wbudowane interaktywne menu. opt
+jest podobny do tego do czego dÄ…Å¼y standardowa funkcja getopt() ale ma
+inny (lepszy) interfejs programisty oraz wiÄ™cej moÅ¼liwoÅ›ci.
 
 %prep
 %setup -q
