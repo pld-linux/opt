@@ -1,5 +1,5 @@
 Summary:	Options and Parameter parsing Tool
-Summary(pl.UTF-8):   Narzędzie do analizowania opcji oraz parametrów
+Summary(pl.UTF-8):	Narzędzie do analizowania opcji oraz parametrów
 Name:		opt
 Version:	3.19
 Release:	1
